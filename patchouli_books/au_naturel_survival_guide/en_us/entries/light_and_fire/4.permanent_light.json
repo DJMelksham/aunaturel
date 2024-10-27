@@ -1,0 +1,14 @@
+{
+    "name": "4. Permanent Light",
+    "icon": "minecraft:lantern",
+    "category": "patchouli:light_and_fire",
+    "pages": [
+        {"type": "patchouli:text",
+            "text": "Permanent light can be made in numerous ways; from glowstone crystals and sticks, glowstone paste and a lit realistic torch, or from a variety of rarer natural products.  Permanent torches produce little pollution relative to campfires."
+               },
+               {"type": "patchouli:crafting",
+                "recipe":"lantern",
+                "text": "A latern is the next step in permanent lighting.  It requires a permanent torch in its recipe and carries all the benefits of torches, but not cause pollution.  Permanent lighting without ventilation in your minecraft home or safety hole."
+                   }
+    ]
+}

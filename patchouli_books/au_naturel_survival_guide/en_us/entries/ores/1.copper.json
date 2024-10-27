@@ -1,0 +1,16 @@
+{
+    "name": "1. Copper",
+    "icon": "minecraft:copper_ingot",
+    "category": "patchouli:ores",
+    "sortnum": 1,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:copper_ore"},
+         "text": "Copper is no longer the useless ore of vanilla minecraft.  On the contrary, it is common and a host of new and usefulitems can be crafted with it.  Of course, you still have to smelt it."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"minecraft:copper_ingot"},
+	 "text": "In addition to old weapons, new weapons, and copper armour, minecart rails and components are now crafted with copper ore rather than iron, lowering the barriers to these transport options. Investigate the possibilities by pressing 'u' (by default) in the crafting menu."
+        }
+    ]
+}

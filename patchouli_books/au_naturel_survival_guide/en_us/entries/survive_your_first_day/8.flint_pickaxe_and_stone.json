@@ -1,0 +1,15 @@
+{
+    "name": "8. Flint Pickaxe & Stone",
+    "icon": "notreepunching:flint_pickaxe",
+    "category": "patchouli:your_first_day",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The crafting table opens up complex recipes, and combining all our basic resources so far, we can now craft a basic flint pickaxe.  This item allows you to destroy stone and mine other low-level blocks and resources such as coal for your fires and furnaces."},
+	{"type": "patchouli:crafting",
+    "recipe":"notreepunching:flint_pickaxe",
+    "text": "Stone harvested via the use of the flint pickaxe can be used on the crafting table to craft stone tools, which are a basic upgrade to your flint options, as well as construct a furnance in which you can cook food and smelt or process other materials."
+        }
+    ]
+}

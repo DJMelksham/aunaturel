@@ -1,0 +1,14 @@
+{
+    "name": "6. Pressure Explosion",
+    "icon": "minecraft:furnace",
+    "category": "patchouli:pollution",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Think ahead of where you place and build around your emitters.  While pollution can stack and increase in density to a degree, if an emitter is unable to expell its requisite pollution block, a pressure explosion may result."},
+	{"type": "patchouli:text",
+	 "text": "I make no promises about what may or may not be destroyed or survive from the resulting explosion."
+        }
+    ]
+}

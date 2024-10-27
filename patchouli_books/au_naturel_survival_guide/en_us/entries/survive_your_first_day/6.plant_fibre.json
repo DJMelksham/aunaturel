@@ -1,0 +1,15 @@
+{
+    "name": "6. Plant Fiber & String",
+    "icon": "notreepunching:plant_fiber",
+    "category": "patchouli:your_first_day",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Using a flint knife, you can now break several simple blocks such as grass.  Doing so will randomly drop the plant fiber item.  While probably the most common source, grass isn't the only source of plant fiber, you can also craft it with other items like sapplings and the flint knife, though you are less likely to be able to source them at this stage of the game."},
+	{"type": "patchouli:crafting",
+    "recipe":"notreepunching:plant_string",
+    "text": "Three plant fibers can be woven together to creat plant string.  A necessary component to advance to more complex tools."
+        }
+    ]
+}

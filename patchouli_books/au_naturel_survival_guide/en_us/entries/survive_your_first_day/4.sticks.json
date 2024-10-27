@@ -1,0 +1,15 @@
+{
+    "name": "4. Sticks",
+    "icon": "minecraft:stick",
+    "category": "patchouli:your_first_day",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Sticks are a compulsory ingredient needed to make tools.  Sticks can eventually be dropped through chance by destroying leaves with your hand, but they aren't a super common drop without the flint knife. A better source is twigs lying on the ground in some biomes.  In cold biomes, look for gaps in the snow which often signal twigs and stone."},
+	{"type": "patchouli:spotlight",
+        "item":{"item":"minecraft:stick"},
+	 "text": "Another strategy to source sticks is to try to find bird nests since the birds have done the work for you.  The difficulty of bird nests are spotting them and safely getting up into and down from the requisite trees.  Be careful, as you can easily find yourself falling through leaves in Au Naturel. A few unique plants may also supply sticks."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "1. Priorities!",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:your_first_day",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "YOU'RE ALIVE!$(br)Try to keep it that way.$(br)Lets get started with the basics...$(br)$(li)Daylight lasts 15 minutes$(li)You have 6 minutes grace before temperature affects you$(br)$(br)Put your first minutes to good use.  The night is not safe and you need to work fast to establish shelter."},
+	{"type": "patchouli:text",
+	 "text": "$(li)Find the best environment you can$(li)Source these  basic resources:$(li2)gravel and flint$(li2)sticks$(li2)grass$(li2)leaves$(li2)stone$(br)$(li)Food and water can wait until you have basic tools$(li)Avoid dangerous animals or hazards$(li)try not to fall down any holes"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "6. Silver",
+    "icon": "galosphere:silver_ingot",
+    "category": "patchouli:ores",
+    "sortnum": 6,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"galosphere:silver_ingot"},
+         "text": "A new ore from the galosphere mod: can be used to construct basic weapons, but more interestingly can be used with gunpowder and the combustion table to craft custom bombs. "
+            }
+    ]
+}

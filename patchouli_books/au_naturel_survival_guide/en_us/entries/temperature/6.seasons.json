@@ -1,0 +1,14 @@
+{
+    "name": "6. Seasons",
+    "icon": "sereneseasons:calendar",
+    "category": "patchouli:temperature",
+    "sortnum": 6,
+    "pages": [
+        {"type": "patchouli:text",
+         "text": "There are four seasons in the year; Spring, Summer, Autumn and Winter.  Each season is split into early, middle, and late, and each of these last 8 in-game days and nights. As the seasons change so too do the daily maximum and minimum temperatures.  "
+            },
+            {"type": "patchouli:text",
+	 "text": "While your biome might be livable in a particular season, think about what it might be like at the height of summer or the depths of winter. Perhaps those migrating animals were onto something after all?"
+        }
+    ]
+}

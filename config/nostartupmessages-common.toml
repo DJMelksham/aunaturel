@@ -1,0 +1,3 @@
+#A list of messages that if contained in a message will be stopped.
+messages = ["Beware the thunder bringing forth demonic arachnid", "Welcome to Arthropod Phobia Expansions", "Load My F***ing Tags", "[Server: Created team [NoNameTags]", "to team [NoNameTags]", "for team [NoNameTags] is now"]
+

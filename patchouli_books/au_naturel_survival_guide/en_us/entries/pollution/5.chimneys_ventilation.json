@@ -1,0 +1,14 @@
+{
+    "name": "5. Chimneys + Vents",
+    "icon": "adchimneys:metal_chimney",
+    "category": "patchouli:pollution",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The easiest way to control for pollution is to have a 3x3 vertical space around emitters that can reach the outside world.  The downside of this may be that your emitters are open to the elements, which is problematic for fire exposed to rain."},
+	{"type": "patchouli:text",
+	 "text": "To combat this, you can either construct more elaborate designs to allow pollution to collect and escape, or you can craft the chimneys or other items that allow pollution to pass through them to the outside world. Experiment to see what works."
+        }
+    ]
+}

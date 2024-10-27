@@ -1,0 +1,11 @@
+{
+    "name": "Au Naturel",
+    "subtitle": "A Survival Guide",
+    "pause_game":true,
+    "landing_text": "Welcome to Au Naturel.  Click through and read each of the categories on the right to heighten your chances of survival. After some light reading, it is strongly suggested you study the category 'Surviving your first day'.",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": false,
+    "show_progress": false,
+    "use_blocky_font": true 
+}

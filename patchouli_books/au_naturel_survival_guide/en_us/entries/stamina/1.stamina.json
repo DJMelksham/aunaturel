@@ -1,0 +1,14 @@
+{
+    "name": "1. Stamina",
+    "icon": "minecraft:leather_boots",
+    "category": "patchouli:stamina",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You now have a finite amount of stamina that limits your actions, and when it runs out you have to stay still or walk in order to see it regain over time."},
+	{"type": "patchouli:text",
+	 "text": "Acitvities that reduce your stamina include breaking blocks, sprinting, swimming, jumping and climbing.  Consider availing yourself of some transport options to help your mobility including stairs, paving, horses and minecarts."
+        }
+    ]
+}

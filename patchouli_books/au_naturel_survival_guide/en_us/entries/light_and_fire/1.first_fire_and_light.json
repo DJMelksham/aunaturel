@@ -1,0 +1,15 @@
+{
+    "name": "1. Fire and Light",
+    "icon": "minecraft:flint_and_steel",
+    "category": "patchouli:light_and_fire",
+    "pages": [
+        {"type": "patchouli:crafting",
+            "recipe":"notreepunching:fire_starter",
+            "text": "The fire starter is likely your first souce of fire, heat and light.  With ten charges it is limited in use. It should be used for natural fire or for lighting campfires.  It cannot light torches. To use the firestarter, equip it in your hand and hold down the right mouse button."
+               },
+               {"type": "patchouli:crafting",
+                "recipe":"new_campfire",
+                "text": "The campfire provides controlled heat and light.  Once made, you must light it with a fire-starting item.  Campfires go out in the rain and burn long enough to last one night. You can add fuel to campfires to extend their burn time.  Remember, campfires produce pollution."
+                   }
+    ]
+}

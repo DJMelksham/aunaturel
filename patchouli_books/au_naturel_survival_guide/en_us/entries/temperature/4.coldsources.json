@@ -1,0 +1,16 @@
+{
+    "name": "4. Cold Sources",
+    "icon": "minecraft:ice",
+    "category": "patchouli:temperature",
+    "sortnum": 4,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:ice"},
+         "text": "Some blocks operate as a source of cold.  Water is often, but not always, a cooling source relative to the rest of the evironment. Other blocks such as snow and ice variants tend to lower the temperature in their direct vacinity."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"cold_sweat:icebox"},
+	 "text": "Don't worry too much about the laws of thermodynamics. But it is good to remember, if you are confused as to why the temperature is dropping, that you do not necessarily have to see the cooling block for it to lower the ambient temperature."
+        }
+    ]
+}

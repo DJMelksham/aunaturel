@@ -1,0 +1,15 @@
+{
+    "name": "7. Insulation",
+    "icon": "minecraft:white_wool",
+    "category": "patchouli:temperature",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cold_sweat:sewing_table",
+            "text": "Currently the sewing table from cold sweat bugged and does not work (will update when fixed):( Leather armour will supply some minor insulation from the cold however."},
+	{"type": "patchouli:text",
+	 "text": "Fur armour may be crafted from fur harvested from shearing goats and acts as a minorly protective but well-insulating armour set.  The boots will also stop you from sinking into powder snow."
+        }
+    ]
+}

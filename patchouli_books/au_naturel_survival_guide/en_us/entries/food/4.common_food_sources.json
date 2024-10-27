@@ -1,0 +1,14 @@
+{
+    "name": "4. Last bits on food.",
+    "icon": "minecraft:cookie",
+    "category": "patchouli:food",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Food can be found almost everywhere, get creative in sourcing it if you are hungry, but you may need to cook it before eating. Kill animals, go fishing or even jump into a river with your axe and try to get fish, farm or scavenge."},
+	{"type": "patchouli:text",
+	 "text": "Because you have to rely on food to heal you, remember to keep an eye on your water/thirst level as well.  Food will not heal you if you do not have a full thirst meter. Also remember that slaughter is polluting, messy work: see pollution..."
+        }
+    ]
+}

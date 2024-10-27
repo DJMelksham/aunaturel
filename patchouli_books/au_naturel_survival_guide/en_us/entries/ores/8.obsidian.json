@@ -1,0 +1,15 @@
+{
+    "name": "8. Obsidian",
+    "icon": "minecraft:obsidian",
+    "category": "patchouli:ores",
+    "sortnum": 8,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:obsidian"},
+         "text": "Due to requiring diamond pickaxes to mine, the weight restrictions on armour, and its general toughness, and the inability to transport lava in Au Naturel, obsidian is likely to be a relatively late game item."
+            },
+            {"type": "patchouli:text",
+	        "text": "With no portal to the nether being possible, a variety of new uses for obsidian now exist, including weapons, armour, and perhaps most interestingly, diving equipment."
+        }
+    ]
+}

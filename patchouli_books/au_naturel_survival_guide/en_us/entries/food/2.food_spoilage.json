@@ -1,0 +1,14 @@
+{
+    "name": "2. Food will spoil",
+    "icon": "minecraft:rotten_flesh",
+    "category": "patchouli:food",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Almost all food will spoil over time.  Foods of the same type with different levels of spoilage cannot be stacked with each other, providing a natural limit to how much food you'll be able to carry on your person or store at once."},
+	{"type": "patchouli:text",
+	 "text": "Food that has not yet spoiled which is crafted into new creations or cooked will have spoilage reset to zero, extending the potential life of some foods. Current rates mean food naturally spoils after approximately 2.4 in-game days."
+        }
+    ]
+}

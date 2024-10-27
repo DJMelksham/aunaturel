@@ -1,0 +1,16 @@
+{
+    "name": "3. Sulphur+sPotassium",
+    "icon": "minecraft:gunpowder",
+    "category": "patchouli:ores",
+    "sortnum": 3,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"psg:raw_potassium"},
+         "text": "Without creepers, you need a source for gunpowder.  Potassium is one of the ores you need in combination with the other new ore: sulphur.  The first step is to refine raw potassium, then mix the result with bonemeal and rotten flesh to create saltpetre."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"psg:sulphur"},
+	 "text": "With saltpetre and coal, and the second new ore, sulphur, all can be mixed in a crafting recipe to create gunpowder.  Now just because there are no creepers, doesn't mean that life can't have a bit of a boom to it."
+        }
+    ]
+}

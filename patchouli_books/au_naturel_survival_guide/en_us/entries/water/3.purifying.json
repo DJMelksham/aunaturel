@@ -1,0 +1,16 @@
+{
+    "name": "3. Purifying Water",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:water",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:furnace",
+            "text": "Once you have collected water, you need to purify it.  One method is to place the water vessel into a furance with fuel, which will raise purity levels over time by 2.  You may need to do this more than once to make purified water."},
+	{"type": "patchouli:spotlight",
+     "item": "minecraft:campfire",
+	 "text": "A second method is to place your filled bottle or bowl directly onto a lit campfire.  It will take a few seconds for the water to raise in purity level by 1.  You may need to do this several times to make water purified."
+        }
+    ]
+}

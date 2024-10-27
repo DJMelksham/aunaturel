@@ -1,0 +1,14 @@
+{
+    "name": "1. Cook Your Food",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:food",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Some foods, like fruits, can be eaten raw without cooking.  But as a general rule most meats, fish, poultry and other animal products need to be cooked before they can be safely consumed. Different foods have different chances of negative effects eaten raw."},
+	{"type": "patchouli:text",
+	 "text": "Many foods can be cooked in furnaces with a fuel source or by being placed manually onto a campfire. As you advance, you may figure out how to craft other utensils and blocks that let you create more complex gastronomic creations."
+        }
+    ]
+}

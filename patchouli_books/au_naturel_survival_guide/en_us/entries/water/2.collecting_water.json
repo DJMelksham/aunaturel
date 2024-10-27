@@ -1,0 +1,16 @@
+{
+    "name": "2. Collecting Water",
+    "icon": "thirst:terracotta_bowl",
+    "category": "patchouli:water",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:glass_bottle",
+            "text": "The first primary water container is the glass bottle.  It can be crafted from 3 pieces of glass, and glass can be formed by processing sand in a furnace."},
+	{"type": "patchouli:spotlight",
+     "item": "thirst:terracotta_bowl",
+	 "text": "The second primary water container is the terracotta bowl.  It can be made by crafting 3 clay balls, sourced from clay commonly found around the world at the bottom of rivers, into a clay bowl, which can then be processed in a furnace."
+        }
+    ]
+}

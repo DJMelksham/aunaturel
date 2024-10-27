@@ -1,0 +1,15 @@
+{
+    "name": "7. Flint Axe & Wood",
+    "icon": "notreepunching:flint_axe",
+    "category": "patchouli:your_first_day",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "With plant string now availble, you can craft the flint axe, which although primitive, is necessary to chop down trees and reliably source wood and allows destruction of several other blocks. In addition to obtaining a reliable source of wood, the flint axe also operates as a simple weapon."},
+	{"type": "patchouli:crafting",
+    "recipe":"notreepunching:flint_axe",
+    "text": "Most tree wood harvested with the flint axe can be directly crafted into planks, four of which can be made into a crafting table which will unlock more complex recipes."
+        }
+    ]
+}

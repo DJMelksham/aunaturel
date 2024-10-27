@@ -1,0 +1,14 @@
+{
+    "name": "1. Thirst",
+    "icon": "croptopia:water_bottle",
+    "category": "patchouli:water",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just as you get hungry from action, so too do you now get thirsty as well.  Although you get small amounts of water from eating certain fruits and edibles, the primary way to quench your thirst is via sourcing water."},
+	{"type": "patchouli:text",
+	 "text": "Be aware that you cannot heal from food if your thirst bar is not full.  If you are desparate, you can empty your hands and drink from raw water sources, but it is highly likely you will have bad effects.  It is much safer to collect and purify your water."
+        }
+    ]
+}

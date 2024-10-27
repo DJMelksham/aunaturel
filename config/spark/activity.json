@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1725241114690,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/H4hWrS8x2P"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1725230704975,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RsslURFhVd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1725148328418,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0VnkIVcoJ2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1725144355271,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PDHWpF1l9c"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1724894093904,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/piQ9POBUL5"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "BigOlDaddyMan",
+      "uniqueId": "fdd00008-86ef-4efc-9e6e-826362b1f26c"
+    },
+    "time": 1724893667557,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Wut54qJA9p"
+    }
+  }
+]

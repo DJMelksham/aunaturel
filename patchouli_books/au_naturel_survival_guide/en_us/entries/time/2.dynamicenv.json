@@ -1,0 +1,14 @@
+{
+    "name": "2. Dynamic Environment",
+    "icon": "minecraft:oak_sapling",
+    "category": "patchouli:time",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You may find your environment changing, growing and shrinking over time.  Sapplings often sprout themselves where able, plants grow, leaves drop."},
+	{"type": "patchouli:text",
+	 "text": "Vines grow, metals may wear and rust, ice covers rivers and melts again, snow falls, fires may cause soot.  The only constant in life is change, and apparently that goes for Au Naturel as well."
+        }
+    ]
+}

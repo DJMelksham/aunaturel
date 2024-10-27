@@ -1,0 +1,14 @@
+{
+    "name": "12. Your first shelter",
+    "icon": "minecraft:oak_door",
+    "category": "patchouli:your_first_day",
+    "sortnum": 12,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Your first shelter will not be a masterpiece of architecture, but it's goal is to help you survive through the night and provide a safe space to prepare your food, materials and water.  Try to make it small enough to build in a short amount of time, as you'll likely be racing against the descending sun."},
+	{"type": "patchouli:text",
+	 "text": "Holes in the ground, walled-off caves, or small wooden huts make excellent good first night shelters.  Remember to create space for a fire and furnace, a path for pollution to escape, with a doorway to control entry and keep hostile mobs out and you might just make it through the night."
+        }
+    ]
+}

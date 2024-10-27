@@ -1,0 +1,14 @@
+{
+    "name": "1. Pollution",
+    "icon": "immersive_weathering:charred_log",
+    "category": "patchouli:pollution",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pollution is technically invisible blocks spawned due to pollution causing events that do not impede player movement. Campfires, furnaces, and torches are just some blocks that produce pollution. Most pollution is created in the space immediately surrounding emitters."},
+	{"type": "patchouli:text",
+	 "text": "There are several types of pollution, but being invisible you won't tell them by sight. Your challenge is to think ahead to design buildings and choose actions to avoid pollution before it becomes a problem, and remember the signs to recognise its presence."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "9. The Hearth",
+    "icon": "cold_sweat:hearth",
+    "category": "patchouli:temperature",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item":"cold_sweat:hearth",
+            "text": "The hearth is a utility block capable of providing a warming or cooling effect.  Powered by redstone from the sides, and a cold fuel, and it will provide a chilling effect.  Powered by redstone from the bottom or back and it will grant players a warmth effect and consumes hot fuel.  "},
+	{"type": "patchouli:text",
+	 "text": "The hearth has an area of effect and is only operational within areas with a roof.  The smokestack is an item that, when placed on a boiler or icebox, lets both provide their requisite hearth-like effects."
+        }
+    ]
+}

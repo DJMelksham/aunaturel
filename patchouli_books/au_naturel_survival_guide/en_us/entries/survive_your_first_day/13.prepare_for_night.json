@@ -1,0 +1,14 @@
+{
+    "name": "13. Prepare for the night",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:your_first_day",
+    "sortnum": 13,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Some spawns are much harder than others, but if you've managed well try to prepare for the night.  Bring in some food, wood, maybe some copper or iron ore if you were lucky, and try to build near potential water sources.  Save tasks up to overcome boredom and try not to do these during the day."},
+	{"type": "patchouli:text",
+	 "text": "During the long night, light your space, process your materials, cook your foods, purify your water, craft your items and be ready to go bursting out for day two at first light. If you have excess wood you may wish to craft some chests or a barrel for storage. Brave souls have been known to venture out at night, but know it is not without its risks."
+        }
+    ]
+}

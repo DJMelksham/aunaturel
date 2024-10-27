@@ -1,0 +1,16 @@
+{
+    "name": "2. Throwing Weapons",
+    "icon": "spartanweaponry:iron_throwing_knife",
+    "category": "patchouli:weapons",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "spartanweaponry:iron_javelin",
+            "text": "A new weapon type which includes the likes of the throwing knives and javelins.  Craft the new fancy handles via a combination of sticks and string equivalents, and then combine with the processed ore of your choice."},
+	{"type": "patchouli:spotlight",
+     "item": "spartanweaponry:iron_throwing_knife",
+	 "text": "Throwing weapons allow for defence at range, but remember to pick up the weapon afterwards, and be careful not to hit yourself while in the act.  Be aware, animals may still not take kindly to being hit with weapons so chose your positioning well."
+        }
+    ]
+}

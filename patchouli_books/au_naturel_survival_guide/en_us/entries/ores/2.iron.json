@@ -1,0 +1,16 @@
+{
+    "name": "2. Iron",
+    "icon": "minecraft:iron_ingot",
+    "category": "patchouli:ores",
+    "sortnum": 2,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:iron_ore"},
+         "text": "Iron is still a great mainstay ore.  It is common in the low mountains and shallow areas of the world and it has many items that can be crafted with it.  Of course, you still have to smelt it."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"minecraft:iron_ingot"},
+	 "text": "Needed for many common tools and mainstay items, with the new additions to Au Naturel you'll always be on the lookout for more of this ore."
+        }
+    ]
+}

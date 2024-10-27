@@ -1,0 +1,14 @@
+{
+    "name": "1. Discover Recipes",
+    "icon": "minecraft:crafting_table",
+    "category": "patchouli:recipes",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The JEI mod gives you access to a searchable database of all applicable recipes and uses of items in the game.  Simply press your inventory key 'E' and a search bar will appear to the right which lets you search for any item you know the name of."},
+	{"type": "patchouli:text",
+	 "text": "Whether in JEI or in your inventory, selecting an item and pressing 'U' (by default) shows all the possible uses for an ingredient, while pressing 'R' (by default) shows you how an item can be crafted.  The world is now your crafting oyster."
+        }
+    ]
+}

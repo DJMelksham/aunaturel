@@ -1,0 +1,15 @@
+{
+    "name": "8. Waterskins",
+    "icon": "cold_sweat:waterskin",
+    "category": "patchouli:temperature",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "cold_sweat:waterskin",
+            "text": "The waterskin is from the coldsweat mod and full mechanics can be viewed on the wiki.  Craft the waterskin from two leather and a string, and use on a water source to fill.  A waterskin can be cooled or heated in an icebox or boiler."},
+	{"type": "patchouli:text",
+	 "text": "You can rightclick with a waterskin to empty its contents onto yourself, or it can be held in the hotbar to give yourself a gradual heating or cooling effect, which slowly drains the temperature of the waterskin.  This effect can stack with multiple water skins."
+        }
+    ]
+}

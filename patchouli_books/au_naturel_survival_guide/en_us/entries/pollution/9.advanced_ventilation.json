@@ -1,0 +1,14 @@
+{
+    "name": "9. Adv. Ventilation",
+    "icon": "adchimneys:stone_vent",
+    "category": "patchouli:pollution",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The underlying pollution mechanic is implemented by a slightly modified version of the pollution of the realms mod, but you don't have to worry about chunk pollution limits and vacuum cleaners do not exist in Au Naturel."},
+	{"type": "patchouli:text",
+	 "text": "The advanced chimneys mod however, along with filtration systems, is implemented.  In theory all the mechanics and ventilation systems that can be built with that mod will work in Au Naturel to remove pollution."
+        }
+    ]
+}

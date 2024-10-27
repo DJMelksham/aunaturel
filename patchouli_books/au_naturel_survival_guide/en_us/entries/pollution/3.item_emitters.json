@@ -1,0 +1,14 @@
+{
+    "name": "3. Item Emitters",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:pollution",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Typically industrial or fire-based utility blocks will emit varying types and levels of pollution: for example furnaces, torches, and campfires."},
+	{"type": "patchouli:text",
+	 "text": "Be sure to build your home or safety hole in such a way as to allow vertical ventilation for these noxious gases to escape, or you may quickly find yourself succumbing to their effects."
+        }
+    ]
+}

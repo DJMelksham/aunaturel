@@ -1,0 +1,16 @@
+{
+    "name": "3. Melee Weapons",
+    "icon": "spartanweaponry:iron_spear",
+    "category": "patchouli:weapons",
+    "sortnum": 3,
+    "pages": [
+        {"type": "patchouli:spotlight",
+         "item": "spartanweaponry:iron_spear",
+         "text": "New weapons include the likes of knives and spears."
+            },
+            {"type": "patchouli:spotlight",
+        "item":"spartanweaponry:iron_dagger",
+	 "text": "Use these new options to choose the right tool for the job, be it defence, offense, or cooking."
+        }
+    ]
+}

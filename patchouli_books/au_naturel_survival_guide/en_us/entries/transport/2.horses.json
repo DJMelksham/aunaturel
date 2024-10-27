@@ -1,0 +1,14 @@
+{
+    "name": "2. Horses",
+    "icon": "minecraft:saddle",
+    "category": "patchouli:transport",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Although there are a greater variation of biomes in Au Naturel, the humble horse may yet provide a relatively efficient mode of transport.  Tame them and use them to overcome some of the limitations of human stamina and speed."},
+	{"type": "patchouli:text",
+	 "text": "  The saddle, naturally of course, is now craftable from 5 pieces of leather, two string, and two iron ingots.  There is, however, practically no horse armour in Au Naturel, so don't get too gung-ho."
+        }
+    ]
+}

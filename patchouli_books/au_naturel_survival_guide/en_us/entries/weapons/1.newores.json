@@ -1,0 +1,15 @@
+{
+    "name": "1. New Ores",
+    "icon": "galosphere:silver_ore",
+    "category": "patchouli:weapons",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "galosphere:silver_ore",
+            "text": "In addition to several new weapon designs, the ores of silver and copper provide new possibilities for early game weapons."},
+            {"type": "patchouli:spotlight",
+            "item": "minecraft:deepslate_copper_ore",
+            "text": "Smelt and use them to craft many of the old and new weapon designs early on."}
+    ]
+}

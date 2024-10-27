@@ -1,0 +1,15 @@
+{
+    "name": "2. Gravel and Flint!",
+    "icon": "minecraft:gravel",
+    "category": "patchouli:your_first_day",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Only basic blocks are breakable without tools.$(br)The most important starting resource to find is gravel, because in gravel you can find flint.$(br)Gravel can most commonly be found in certain stony and gravelly biomes, near naturally occuring stone, in caves, along beaches, and beside and under rivers and oceans."},
+	{"type": "patchouli:crafting",
+     "recipe":"processgravel",
+	 "text": "Gravel is one block you can mine with your hands to find flint.  If you are having trouble finding flint, remember, you can craft 4 blocks of mined gravel into one peice of flint without a crafting table."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "3. Other fire starters",
+    "icon": "realistictorches:matchbox",
+    "category": "patchouli:light_and_fire",
+    "pages": [
+        {"type": "patchouli:crafting",
+            "recipe":"flint_and_steel",
+            "text": "Just as in regular minecraft, you can craft these with iron ingots and flint. Flint and steel can light uncontrolled fire, as well as items such as torches and campfires."
+               },
+               {"type": "patchouli:crafting",
+                "recipe":"new_matchbox",
+                "text": "The matchbox is just like flint and steel in its utility, but is crafted using a different recipe and carries more uses, and therefore more opportunities to make fire and light.  But remember, all fire creates pollution."
+                   }
+    ]
+}

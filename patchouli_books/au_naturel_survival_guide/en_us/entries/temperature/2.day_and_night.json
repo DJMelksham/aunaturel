@@ -1,0 +1,14 @@
+{
+    "name": "2. Day and Night",
+    "icon": "minecraft:clock",
+    "category": "patchouli:temperature",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Daylight and darkness have marked effects on the temperature.  Daylight will tend to be warmer, all else being equal, and temperature drops frequently come at night.  Don't assume you will be ok just because you are hanging on in current circumstances."},
+	{"type": "patchouli:text",
+	 "text": "Weather can also have an affect on the apparent temperature.  Always be wary of travelling out and about unprepared and don't over-estimate your ability to survive in a new biome or should the weather turn. Investigate new biomes, prepare and stay close to a comfortable place, and remember that the weather can change at the drop of a hat."
+        }
+    ]
+}

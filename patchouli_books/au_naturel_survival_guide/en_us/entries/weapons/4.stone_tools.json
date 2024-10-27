@@ -1,0 +1,16 @@
+{
+    "name": "4. Stone Tools",
+    "icon": "minecraft:stone_pickaxe",
+    "category": "patchouli:weapons",
+    "sortnum": 4,
+    "pages": [
+        {"type": "patchouli:spotlight",
+         "item": "minecraft:stone_pickaxe",
+         "text": "Be aware that flint tools are now the early game starting toolset and wood tools are completely removed.  While stone tools still exist as a minor upgrade, be aware they are now constructed with smooth stone double-cooked in a furnance"
+            },
+            {"type": "patchouli:spotlight",
+        "item":"minecraft:stone_shovel",
+	 "text": "This is because pebbles and twigs are now common in many biomes, and pebbles can be crafted into cobblestone.  With enough collecting and a bit of creativity, you could skip flint entirely, but is that really what you want to do?"
+        }
+    ]
+}

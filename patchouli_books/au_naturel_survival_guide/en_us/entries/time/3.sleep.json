@@ -1,0 +1,14 @@
+{
+    "name": "3. Sleep",
+    "icon": "minecraft:red_bed",
+    "category": "patchouli:time",
+    "sortnum": 3,
+    "pages": [
+        {"type": "patchouli:text",
+         "text": "Sleep is not like in regular minecraft. You may be prevented from sleep if the temperature is too dangerous. Don't go to sleep unless you're safe and ready for the simulation to run for minutes without input."
+            },
+            {"type": "patchouli:text",
+	 "text": "Sleep speeds up the simulation in Au Naturel rather than skipping it, so now its use is more niche, and currently you only get back out of bed at sunrise.  Monsters still attack you, so make sure your bedroom safe.  Also make sure it maintains temperature for the entire night lest you not wake up at all."
+        }
+    ]
+}

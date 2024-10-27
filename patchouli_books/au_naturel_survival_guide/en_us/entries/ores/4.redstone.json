@@ -1,0 +1,12 @@
+{
+    "name": "4. Redstone",
+    "icon": "minecraft:redstone",
+    "category": "patchouli:ores",
+    "sortnum": 4,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:redstone"},
+         "text": "Redstone is the ore required for many advanced recipes and items, used for automation, permanent lighting, temperature control and many more.  Typically you need to be brave or well-equiped enough to venture into the caves to retrieve it."
+            }
+    ]
+}

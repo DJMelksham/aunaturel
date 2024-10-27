@@ -1,0 +1,16 @@
+{
+    "name": "5. Flint knife",
+    "icon": "notreepunching:flint_knife",
+    "category": "patchouli:your_first_day",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The flint knife is both a tool and a very simple weapon, though it is only recommended to use as such in the most dire of circumstances.$(br)The real reason to obtain the flint knife is because it can be used to cut grass and other blocks, which will randomly drop plant fibres, necessary to craft a whole host of tools and a partial string substitute."},
+	{"type": "patchouli:crafting",
+    "recipe":"notreepunching:flint_knife",
+    "text": "The flint knife needs to be crafted with a flint shard and a stick."
+       
+        }
+    ]
+}

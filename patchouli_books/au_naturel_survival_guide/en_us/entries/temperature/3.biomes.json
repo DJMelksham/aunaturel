@@ -1,0 +1,14 @@
+{
+    "name": "3. Biomes",
+    "icon": "minecraft:oak_sapling",
+    "category": "patchouli:temperature",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Temperature is fundamentally tied to the biome in which you find yourself. Different biomes have different minimums maximums and variances. Some biomes are marginally hostile to human life, some extremely so."},
+	{"type": "patchouli:text",
+	 "text": "Unless you are in a hostile environment for the challenge or as part of your gameplay, it is strategic to find a biome that is ammenable to supporting your life. Always remember that biomes define the frequency and variance of weather, and that temperature is not consistent across the seasons."
+        }
+    ]
+}

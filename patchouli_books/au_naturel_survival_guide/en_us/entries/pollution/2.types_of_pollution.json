@@ -1,0 +1,14 @@
+{
+    "name": "2. Types of Pollution",
+    "icon": "adpother:polluted_water_bucket",
+    "category": "patchouli:pollution",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Technically there are currently three types of pollution.  Dust, Carbon and Sulphur.  Dust aims to settle towards the ground rather than escaping upwards, and you may be able to recognise its presence by the destruction of grass or the turning of nearby water to a polluted yellow state."},
+	{"type": "patchouli:text",
+	 "text": "Carbon and Sulphur are both gases that technically always float upwards towards the sky, but will become trapped in enclosed areas and places with low ceilings.  With no way to escape to the open air, they will gradually build up in density if the source of pollution is not stopped."
+        }
+    ]
+}

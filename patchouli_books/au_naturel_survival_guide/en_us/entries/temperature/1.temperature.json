@@ -1,0 +1,14 @@
+{
+    "name": "1. Temperature",
+    "icon": "cold_sweat:thermometer",
+    "category": "patchouli:temperature",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are many new temperature mechanics in Au Naturel. On first spawn you start with a thermometer, this will let you observe the temperature of the environment, but if you die you do not gain another.  You have six minutes grace on spawn before temperature affects you. Use this strategically and wisely."},
+	{"type": "patchouli:text",
+	 "text": "External temperature is to the right of your HUD, by default it is in celsius. Your body temperature is in the centre of the HUD with a grey 0 being neutral and healthy, 100 amber representing total overheating, and 100 blue representing total cold. Go too far in either direction and unpleasant side effects and evenutal death awaits."
+        }
+    ]
+}

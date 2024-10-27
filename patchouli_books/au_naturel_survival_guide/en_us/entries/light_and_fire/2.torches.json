@@ -1,0 +1,15 @@
+{
+    "name": "2. Torches",
+    "icon": "minecraft:torch",
+    "category": "patchouli:light_and_fire",
+    "pages": [
+        {"type": "patchouli:crafting",
+            "recipe":"realistictorches:unlit_torch",
+            "text": "The first torch available to you uses the regular minecraft recipe: a stick + some coal.  However, it cannot be lit with fire sticks and relies on flint and steel or matches to be lit.  Torches produce less pollution, are cheaper and burn for less time than campfires. They go out if exposed to rain."
+               },
+               {"type": "patchouli:crafting",
+                "recipe":"realistictorches:lit_torch",
+                "text": "A unlit torch can be lit either by explicitly crafting a lit torch with a matchbox, or by placing the unlit torch into the world and right clicking on it with flint and steel or with the matchbox."
+                   }
+    ]
+}

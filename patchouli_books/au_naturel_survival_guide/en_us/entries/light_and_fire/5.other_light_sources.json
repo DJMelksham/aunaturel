@@ -1,0 +1,13 @@
+{
+    "name": "5. Other Light Sources",
+    "icon": "minecraft:lantern",
+    "category": "patchouli:light_and_fire",
+    "pages": [
+        {"type": "patchouli:text",
+            "text": "Of course the basic crafted light sources of Au Naturel are only the beggining.  With some exploration, bravery and bit of creativity, you'll find a whole host of additional light sources exist out in the world or may be crafted from various ingredients."
+               },
+               {"type": "patchouli:text",
+                "text": "Don't forego these natural sources to light your home if you happen to be lucky enough to find them.  There are almost too many out there to count, and not only are they aesthetically pleasing, but they are often pollution free and allow you to put resources to other ends."
+                   }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "7. Emerald and Ruby",
+    "icon": "minecraft:emerald",
+    "category": "patchouli:ores",
+    "sortnum": 7,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:emerald"},
+         "text": "Emerald and Ruby represent two new materials as an intermediary between iron and diamond (or indeed obsidian).  Emeralds tend to be found in stone at high altitudes of mountains and is relatively rare."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"easy_emerald:ruby"},
+	 "text": "Ruby can be crafted by combining emeralds and redstone.  Like emeralds, its main use is as new material in basic weapon, armour, and equipment recipes, but don't expect to be crafting it early game."
+        }
+    ]
+}

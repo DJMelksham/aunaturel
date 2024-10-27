@@ -1,0 +1,15 @@
+{
+    "name": "10. Fire and Light",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:your_first_day",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe":"notreepunching:fire_starter",
+            "text": "Sticks, flint shards and plant fibre can be crafted into the fire starter.  Use it also light campfires, but in desperation they can be used by themselves on the environment.  Just don't stand too close."},
+	{"type": "patchouli:crafting",
+        "recipe":"new_campfire",
+        "text": "Campfires are your basic source of controlled heat and light, but you need coal or charcoal in addition to wood and sticks to craft them, and they need to be lit with the fire starters or an alternative. Make sure you leave room for pollution to escape." }
+    ]
+}

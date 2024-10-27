@@ -1,0 +1,11 @@
+10 possible world presets found:
+- "bclib:normal"
+- "minecraft:flat"
+- "minecraft:large_biomes"
+- "minecraft:single_biome_surface"
+- "bclib:legacy_17"
+- "minecraft:debug_all_block_states"
+- "bclib:amplified"
+- "minecraft:amplified"
+- "minecraft:normal"
+- "bclib:large"

@@ -1,0 +1,14 @@
+{
+    "name": "1. Copper Rails",
+    "icon": "minecraft:rail",
+    "category": "patchouli:transport",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Rail transport in Au Naturel does not rely on the sourcing of iron. Instead, rails and similar infrastructure for the minecarts can be built using the relatively common copper ore, and in significantly greater ammount."},
+	{"type": "patchouli:text",
+	 "text": "Use this to build transport infrastructure around your new home to overcome the limitations of stamina, weight and your relatively weak fleshy body."
+        }
+    ]
+}

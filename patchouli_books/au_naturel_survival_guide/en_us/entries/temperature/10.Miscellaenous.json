@@ -1,0 +1,14 @@
+{
+    "name": "10. Miscellaneous",
+    "icon": "minecraft:cookie",
+    "category": "patchouli:temperature",
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There's always something more to be said about temperature.  Try to learn as you go.  For instance, the ground beneath your feet might look like grass, but is it permafrost? What's it sound like to step on? Did you know depth and altitude affects deperature?"},
+	{"type": "patchouli:text",
+	 "text": "Be aware also that being underground and indoors can provide some insulating properties from the climate if you're under or surrounded by things.  Experiment with blocks and enclosures to see how they keep heat in or let it out."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "3. Flint Shards",
+    "icon": "notreepunching:flint_shard",
+    "category": "patchouli:your_first_day",
+    "sortnum": 3,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"notreepunching:flint_shard"},
+         "text": "A flint shard is produecd by holding flint in your hand, finding a block nice and hard like stone, and right clicking to attempt to knap the flint into a useful shard."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"minecraft:cobblestone"},
+	 "text": "If you are desparate for a hard surface, remember that rocks found commonly throughout the world can be crafted together into a cobblestone block, on which knapping of flint is possible."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "4. Natural Emitters",
+    "icon": "minecraft:lava_bucket",
+    "category": "patchouli:pollution",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The natural world is also an emitter of pollution.  Lava and fire are both sources of heat, light, ignition and pollution in Au Naturel.  So too are the actions of many animals.  Make sure your farms are built humanely."},
+	{"type": "patchouli:text",
+	 "text": "When an animal feeds, dies or burns, this results in pollution.  You may find yourself defending your territory in your home and killing in defence, but this is not advisable for too much animal death within your home may have deleterious effects even after the creatures have died.  Plan ahead."
+        }
+    ]
+}

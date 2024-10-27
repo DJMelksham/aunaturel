@@ -1,0 +1,12 @@
+{
+    "name": "5. Lapis Lazuli",
+    "icon": "minecraft:lapis_lazuli",
+    "category": "patchouli:ores",
+    "sortnum": 5,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"minecraft:lapis_lazuli"},
+         "text": "As there is no enchanting in Au Naturel, lapis will now take a key form of crafting item upgrades with special or differing properties.  Crafting a silk-touch pickaxe, for example, requires lapis."
+            }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "11. A Basic Chimney",
+    "icon": "adchimneys:cobblestone_chimney",
+    "category": "patchouli:your_first_day",
+    "sortnum": 11,
+    "pages": [
+        {
+            "type": "patchouli:crafting",
+            "recipe":"adchimneys:cobblestone_chimney",
+            "text": "The most basic chimney can be crafted from six pieces of cobblestone, but technically you can build a home with open air above your pollution sources which will also work."},
+	{"type": "patchouli:text",
+        "text": "You should build your shelters with several block high ceilings in the 3 x 3 space surrounding your pollution sources to avoid accumulation of toxic gases at ground level, with chimneys or other open air blocks above providing a way for the gases to escape.  One chimney will likely be insufficient until more advanced systems can be constructed." }
+    ]
+}

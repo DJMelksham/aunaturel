@@ -1,0 +1,16 @@
+{
+    "name": "3. Food Preserving",
+    "icon": "notreepunching:flint_shard",
+    "category": "patchouli:food",
+    "sortnum": 3,
+    "pages": [
+        {"type": "patchouli:spotlight",
+            "item":{"item":"salt:salt"},
+         "text": "Many foods may now be salted by combining them with salt, assuming you manage to find a source of salt of course.  Salted foods do not expire."
+            },
+            {"type": "patchouli:spotlight",
+        "item":{"item":"cold_sweat:icebox"},
+	 "text": "Putting food in the top 9 slots of an icebox allows you to stop the spoiling of food indefinitely, provided that the icebox has sufficientc cooling fuel to run indefinitely as well."
+        }
+    ]
+}

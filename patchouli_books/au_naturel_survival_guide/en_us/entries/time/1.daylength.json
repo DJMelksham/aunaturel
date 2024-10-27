@@ -1,0 +1,14 @@
+{
+    "name": "1. Day/Night",
+    "icon": "minecraft:clock",
+    "category": "patchouli:time",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The day and the night cycle run for 12 minutes each, leading to a day+night cycle of 24 minutes.  The lighting at night is affected by the moon cycles and weather so take note and don't venture out if its too dark to see."},
+	{"type": "patchouli:text",
+	 "text": "With more task to do and increased difficulty, expect a longer technology cycle and learning curve.  You may have to be happy merely with collecting the most basic of tools on your first night."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "9. The Furnace",
+    "icon": "minecraft:furnace",
+    "category": "patchouli:your_first_day",
+    "sortnum": 9,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Once stone mining becomes available, the furnace is a very versitile item.  The furnace can provide an emergency source of heat and light, all while performing the important role of cooking food and processing materials.$(br) Never be too proud to rely on the furnace as the hearth of your home, though one will likely not be powerful enough to stop all mobs spawning within sight of you."},
+	{"type": "patchouli:spotlight",
+    "item":{"item":"minecraft:furnace"},
+    "text": "Remember to allow for a way for pollution to escape from the lit furnace, and that wood can be burnt in the furnace to create emergency charcoal to create campfires and unlit torches."
+        }
+    ]
+}

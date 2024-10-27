@@ -1,0 +1,16 @@
+{
+    "name": "2. Armour Weight",
+    "icon": "minecraft:iron_chestplate",
+    "category": "patchouli:stamina",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:iron_chestplate",
+            "text": "The greater the protection of the armour you wear, the more the armour is deemed to weigh.  The more weight you wear, the slower your average and top movement speed."},
+	{"type": "patchouli:spotlight",
+     "item": "minecraft:diamond_chestplate",
+	 "text": "It is possible to tank yourself up in armour in Au Naturel. But you are going to move like a man wearing an iron suit. Now you need to trade off your mobility with your protection."
+        }
+    ]
+}

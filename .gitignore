@@ -1,0 +1,11 @@
+*.disabled
+saves/
+*.log
+crash-reports/
+logs/
+modernfix/
+natives/
+xaero/
+XaeroWaypoints/
+*.zip
+*.java

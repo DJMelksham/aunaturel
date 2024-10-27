@@ -1,0 +1,14 @@
+{
+    "name": "8. Know the Signs",
+    "icon": "minecraft:suspicious_stew",
+    "category": "patchouli:pollution",
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The lowest level of pollution generally has the effect of temporary blindness lasting a few seconds, caused by immediate exposure from fire exhaust or after a session of too much bloodlust in the immediate area."},
+	{"type": "patchouli:text",
+	 "text": "These usually wear off after leaving the area with pollution or once the pollution leaves the area, but greater amounts of pollution can increase effects to add nausea, poisioning, and theoretically eventually even wither or death."
+        }
+    ]
+}

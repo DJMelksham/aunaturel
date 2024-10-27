@@ -1,0 +1,14 @@
+{
+    "name": "7. Ignition Explosion",
+    "icon": "minecraft:magma_block",
+    "category": "patchouli:pollution",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If pressure explosions sounded scary, i have some bad news for you.  If the amount of pollution in an area builds up to critical amount and a source of ignition is introduced, theoretically this can result in an explosive destruction event."},
+	{"type": "patchouli:text",
+	 "text": "As with the pressure explosion, you're a little on your own on this one and have been warned.  Let me know if you witness anything large, i'm particularly curious about brave souls who venture into the deep dark and hang around pools of lava..."
+        }
+    ]
+}

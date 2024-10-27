@@ -1,0 +1,14 @@
+{
+    "name": "5. Heat Sources",
+    "icon": "minecraft:magma_block",
+    "category": "patchouli:temperature",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are many heat sources in Au Naturel, with furnaces, campfires and fire likely to be your most familiar and utilised.  Heat sources tend to also give off pollution, which will need to be accounted for."},
+	{"type": "patchouli:text",
+	 "text": "Other common heat producing blocks include magma and lava. Indeed unlike normal minecraft, don't try to pick up lava in a bucket. Lava especially emits intense amounts of heat, so it's generally advised to keep your distance."
+        }
+    ]
+}
